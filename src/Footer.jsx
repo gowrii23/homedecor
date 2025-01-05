@@ -14,7 +14,7 @@ const Footer = () => (
             ></iframe>
         </div>
         <div className="footer-info">
-            <h3>Our Office</h3>
+            <h3>Our Office (+61 415 512 800)</h3>
             <p>6 Humphreys Ave, Casula NSW 2170, Australia</p>
         </div>
     </footer>
