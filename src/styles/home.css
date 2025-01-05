@@ -1,0 +1,47 @@
+/*settings for home.jsx*/
+/* Background image that covers the entire screen */
+.home-section {
+    background-image: url('https://www.valeriegrantinteriors.com/wp-content/uploads/GrantHomeDiningFullCommodeWin_2637-copy.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 97%;
+    height: 60vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    opacity: 0.7;
+}
+
+/* UI form styles */
+.form-container {
+    background-color: rgba(86, 123, 245, 0.8);
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 460px;
+    width: 90%;
+}
+
+.form-container input,
+.form-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.form-container button {
+    width: 100%;
+    padding: 40px;
+    background-color: rgb(23, 79, 235);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-container button:hover {
+    background-color: rgb(165, 236, 117);
+    color: white;
+}

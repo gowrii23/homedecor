@@ -1,0 +1,60 @@
+/* General styles for the header */
+.header {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.top-row,
+.bottom-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin: 0;
+    padding: 0;
+    /* Set the height of the header to 100% of the viewport height */
+    height: 5vh;
+    background-color: #dfd7d5;
+}
+
+.top-row span {
+    margin: 0 10px;
+    color: grey;
+}
+
+.social-icon,
+.nav-icon {
+    width: 24px;
+    height: 24px;
+    margin: 0 10px;
+}
+
+/* Navigation menu styles */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: grey;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: rgb(126, 186, 243);
+    color: rgb(26, 89, 224);
+}
+
+
