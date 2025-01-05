@@ -4,7 +4,7 @@
     background-image: url('https://www.valeriegrantinteriors.com/wp-content/uploads/GrantHomeDiningFullCommodeWin_2637-copy.jpg');
     background-size: cover;
     background-position: center;
-    width: 97%;
+    width: auto;
     height: 60vh;
     display: flex;
     justify-content: flex-start;
@@ -15,11 +15,12 @@
 
 /* UI form styles */
 .form-container {
-    background-color: rgba(86, 123, 245, 0.8);
+    background-color: rgba(67, 108, 241, 0.8);
     padding: 40px;
     border-radius: 10px;
     max-width: 460px;
     width: 90%;
+    padding-right: 60px !important;
 }
 
 .form-container input,
@@ -34,7 +35,7 @@
 .form-container button {
     width: 100%;
     padding: 40px;
-    background-color: rgb(23, 79, 235);
+    background-color: rgb(52, 39, 231);
     border: none;
     border-radius: 5px;
     cursor: pointer;
