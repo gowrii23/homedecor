@@ -10,12 +10,12 @@ const Footer = () => (
                 height="100"
                 allowFullScreen=""
                 loading="lazy"
-                title="Home Decor Corporation Map"
+                title="Pergolas and Patios"
             ></iframe>
         </div>
         <div className="footer-info">
             <h3>Our Office</h3>
-            <p>Home Decor Corporation (I) Pvt. Ltd., Chennai, India</p>
+            <p>6 Humphreys Ave, Casula NSW 2170, Australia</p>
         </div>
     </footer>
 );

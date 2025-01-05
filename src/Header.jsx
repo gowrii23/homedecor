@@ -5,9 +5,9 @@ const Header = () => (
     <div className="top-row">
       <span>
         Need Help, Talk to Expert:
-        <a href="tel:+919999999999">+91 9999999999</a>
+        <a href="tel:+61415512800">+61 415 512 800</a>
       </span>
-      <span>Working Hours: Monday to Sunday (10am - 8pm)</span>
+      <span>Working Hours: Monday to Sunday (7am - 7pm)</span>
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg"
         alt="Facebook"
