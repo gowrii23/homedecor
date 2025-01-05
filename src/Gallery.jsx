@@ -2,37 +2,37 @@ import React from "react";
 import "./styles/gallery.css";
 
 const images = [
-    {
-        url: "https://www.bhg.com/thmb/EmuKL4yiqCMRZlclvSIJtMln9vU=/1866x0/filters:no_upscale():strip_icc()/renovated-neutral-colored-living-room-2f194807-3856ba1a2ea04e269ea42e93021fda64.jpg",
-        title: "Kitchen",
-        description: "A modern kitchen with sleek appliances.",
-      },
   {
-    url: "https://www.designdekko.com/uploads/blog/1590670912-FeaturedBlogArticle.jpg",
+    url: "https://cdn.prod.website-files.com/60ac16cc7bfd6e0921683645/635b006a82142d5eddea79d1_black%20patio%20cover%20in%20san%20antonio.jpg",
+    title: "Kitchen",
+    description: "A modern kitchen with sleek appliances.",
+  },
+  {
+    url: "https://pergoladepot.com/wp-content/uploads/2019/05/Multi-Use-Patio-Pergola.jpg",
     title: "Bedroom",
     description: "A luxurious bedroom with elegant furnishings.",
   },
   {
-    url: "https://www.bhg.com/thmb/EmuKL4yiqCMRZlclvSIJtMln9vU=/1866x0/filters:no_upscale():strip_icc()/renovated-neutral-colored-living-room-2f194807-3856ba1a2ea04e269ea42e93021fda64.jpg",
+    url: "https://azenco-outdoor.com/wp-content/uploads/2024/11/R-Blade-pergola-ideas-6.jpg",
     title: "Kitchen",
     description: "A modern kitchen with sleek appliances.",
   },
   {
-    url: "https://www.bhg.com/thmb/EmuKL4yiqCMRZlclvSIJtMln9vU=/1866x0/filters:no_upscale():strip_icc()/renovated-neutral-colored-living-room-2f194807-3856ba1a2ea04e269ea42e93021fda64.jpg",
+    url: "https://azenco-outdoor.com/wp-content/uploads/2024/11/R-Blade-pergola-ideas-6.jpg",
     title: "Kitchen",
     description: "A modern kitchen with sleek appliances.",
   },
+
   {
-    url: "https://www.bhg.com/thmb/EmuKL4yiqCMRZlclvSIJtMln9vU=/1866x0/filters:no_upscale():strip_icc()/renovated-neutral-colored-living-room-2f194807-3856ba1a2ea04e269ea42e93021fda64.jpg",
-    title: "Kitchen",
-    description: "A modern kitchen with sleek appliances.",
-  },
-  {
-    url: "https://www.designdekko.com/uploads/blog/1590670912-FeaturedBlogArticle.jpg",
+    url: "https://pergoladepot.com/wp-content/uploads/2019/05/Multi-Use-Patio-Pergola.jpg",
     title: "Bedroom",
     description: "A luxurious bedroom with elegant furnishings.",
   },
- 
+  {
+    url: "https://cdn.prod.website-files.com/60ac16cc7bfd6e0921683645/635b006a82142d5eddea79d1_black%20patio%20cover%20in%20san%20antonio.jpg",
+    title: "Kitchen",
+    description: "A modern kitchen with sleek appliances.",
+  },
 ];
 
 const Gallery = () => (
