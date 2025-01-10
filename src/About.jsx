@@ -3,6 +3,7 @@ import React from "react";
 const About = () => (
   <section id="about">
     <h2>About Us</h2>
+    <h3>Our price are affordable and all our product are Australian made.</h3>
     <h4>
       <p>
         Transform your outdoor spaces into elegant retreats with our custom

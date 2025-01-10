@@ -4,7 +4,7 @@ const Header = () => (
   <header className="header">
     <div className="top-row">
       <span>
-        Need Help, Talk to Expert:
+        Need Help, Talk to Expert Gary:
         <a href="tel:+61415512800">+61 415 512 800</a>
       </span>
       <span>Working Hours: Monday to Sunday (7am - 7pm)</span>
