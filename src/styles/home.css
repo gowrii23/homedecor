@@ -32,17 +32,17 @@
     border-radius: 5px;
 }
 
-.form-container button {
+ .form-container button {
     width: 100%;
-    padding: 40px;
-    background-color: rgb(52, 39, 231);
+    padding: 10px;
+    background-color: rgb(11, 26, 109); 
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
-}
+    transition: background-color 0.5s;
+}  
 
 .form-container button:hover {
-    background-color: rgb(165, 236, 117);
+    background-color: rgb(15, 92, 47);
     color: white;
 }
