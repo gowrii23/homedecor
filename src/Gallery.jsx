@@ -3,33 +3,33 @@ import "./styles/gallery.css";
 
 const images = [
   {
-    url: "https://cdn.prod.website-files.com/60ac16cc7bfd6e0921683645/635b006a82142d5eddea79d1_black%20patio%20cover%20in%20san%20antonio.jpg",
+    url: "https://lh3.googleusercontent.com/p/AF1QipNY5lI5RHMc7MEj8bVQBkRMulaY9bDsebsGgXdH=s680-w680-h510",
     title: "Kitchen",
     description: "A modern kitchen with sleek appliances.",
   },
   {
-    url: "https://pergoladepot.com/wp-content/uploads/2019/05/Multi-Use-Patio-Pergola.jpg",
+    url: "https://lh3.googleusercontent.com/p/AF1QipNgUGHOSEnLNKzruaL8_UrdbrpAHHrSbHLO-AT7=s680-w680-h510",
     title: "Bedroom",
     description: "A luxurious bedroom with elegant furnishings.",
   },
   {
-    url: "https://azenco-outdoor.com/wp-content/uploads/2024/11/R-Blade-pergola-ideas-6.jpg",
+    url: "https://lh3.googleusercontent.com/p/AF1QipOpItxXF367_qI3EkQxaRU_Vb-QRzqsDbF9dxfq=s680-w680-h510",
     title: "Kitchen",
     description: "A modern kitchen with sleek appliances.",
   },
   {
-    url: "https://azenco-outdoor.com/wp-content/uploads/2024/11/R-Blade-pergola-ideas-6.jpg",
+    url: "https://lh3.googleusercontent.com/p/AF1QipO8ijPyQevMQvJxPqsrDx02rPp-e3K5eITUuE3k=s680-w680-h510",
     title: "Kitchen",
     description: "A modern kitchen with sleek appliances.",
   },
 
   {
-    url: "https://pergoladepot.com/wp-content/uploads/2019/05/Multi-Use-Patio-Pergola.jpg",
+    url: "https://lh3.googleusercontent.com/p/AF1QipPJjXrJONHytCwY8pAI4h9S9X4RRwdGWQAFQp2k=s680-w680-h510",
     title: "Bedroom",
     description: "A luxurious bedroom with elegant furnishings.",
   },
   {
-    url: "https://cdn.prod.website-files.com/60ac16cc7bfd6e0921683645/635b006a82142d5eddea79d1_black%20patio%20cover%20in%20san%20antonio.jpg",
+    url: "https://lh3.googleusercontent.com/p/AF1QipOiCdEEapimgObpLqKHYz1PWsJhZI-TjmwPzeXJ=s680-w680-h510",
     title: "Kitchen",
     description: "A modern kitchen with sleek appliances.",
   },
