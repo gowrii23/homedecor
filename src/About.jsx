@@ -1,4 +1,5 @@
 import React from "react";
+import './styles/about.css';
 
 const About = () => (
   <section id="about">
@@ -15,6 +16,8 @@ const About = () => (
     <h3>
       <p>Let's create your dream space together!</p>
     </h3>
+    <h2 className="left-aligned">Reviews by our Customer</h2>
+
   </section>
 );
 

@@ -34,10 +34,7 @@ const Header = () => (
             <a href="#about">ABOUT</a>
           </li>
           <li>
-            <a href="#services">SERVICES</a>
-          </li>
-          <li>
-            <a href="#projects">PROJECTS</a>
+            <a href="#gallery">GALLERY</a>
           </li>
           <li>
             <a href="#contact">CONTACT</a>
