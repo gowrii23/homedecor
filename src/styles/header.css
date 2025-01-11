@@ -17,11 +17,14 @@
     /* Set the height of the header to 100% of the viewport height */
     height: 5vh;
     background-color: #dfd7d5;
+    font-size: 22px;
 }
+
+
 
 .top-row span {
     margin: 0 10px;
-    color: grey;
+    color: rgb(9, 10, 10);
 }
 
 .social-icon,
