@@ -1,7 +1,8 @@
 /*settings for home.jsx*/
 /* Background image that covers the entire screen */
 .home-section {
-    background-image: url('https://www.valeriegrantinteriors.com/wp-content/uploads/GrantHomeDiningFullCommodeWin_2637-copy.jpg');
+    background-image: url('/10.png');
+    /*https://www.valeriegrantinteriors.com/wp-content/uploads/GrantHomeDiningFullCommodeWin_2637-copy.jpg*/
     background-size: cover;
     background-position: center;
     width: auto;

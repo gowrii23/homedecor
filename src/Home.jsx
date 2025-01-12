@@ -23,7 +23,7 @@ const Home = () => {
     const { name, email, phone, address, message } = formData;
 
     const whatsappMessage = `Name: ${name}\nEmail: ${email}\nPhone: ${phone}\nAddress: ${address}\nMessage: ${message}`;
-    const whatsappUrl = `https://web.whatsapp.com/send?phone=919965482482&text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://web.whatsapp.com/send?phone=61415512800&text=${encodeURIComponent(whatsappMessage)}`;
 
     window.open(whatsappUrl, "_blank");
   };
