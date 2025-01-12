@@ -13,9 +13,20 @@ const About = () => (
         practicality to achieve harmonious living environments.{" "}
       </p>
     </h4>
+    <h3>Options include:</h3>
+    
+        <h3>Insulated Panels Roof</h3>
+        <h3>Colourbond Roof</h3>
+        <h3>Curved Roof</h3>
+        <h3>Gable Roof</h3>
+        <h3>Sunroom</h3>
+        <h3>Decking</h3>
+   
+
     <h3>
       <p>Let's create your dream space together!</p>
     </h3>
+   
     <h2 className="left-aligned">Reviews by our Customer</h2>
 
   </section>
