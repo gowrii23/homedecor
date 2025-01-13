@@ -31,6 +31,7 @@ const Home = () => {
   return (
     <section id="home" className="home-section">
       <div className="form-container">
+        <h2>PERGOLAS & PATIOS</h2>
         <form onSubmit={handleSubmit}>
           <div>
             <input type="text" id="name" name="name" placeholder="Name" value={formData.name} onChange={handleChange} required />
